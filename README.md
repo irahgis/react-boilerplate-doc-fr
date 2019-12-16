@@ -2,13 +2,13 @@
 
 React Boilerplate est un environnement de travail React préconfiguré pour le développement et le déploiement en production d’applications de toutes tailles.
 Cet ensemble outils React créé par Max Stoiber présente de nombreux avantages comme: 
-Rester concentrer sur son code et mettre l'accent sur les performances
-Adopter des pratiques de programmation inspirées des meilleurs développeurs.
-Garantir automatiquement la qualité du code et des modifications.
-Prendre en charge le référencement 
-Développer des Application Web native.
-Charger les polices de caractère plus rapidement
-De gagner du temps (beaucoup de temps… )
+- Rester concentrer sur son code et mettre l'accent sur les performances
+- Adopter des pratiques de programmation inspirées des meilleurs développeurs.
+- Garantir automatiquement la qualité du code et des modifications.
+- Prendre en charge le référencement 
+- Développer des Application Web native.
+- Charger les polices de caractère plus rapidement
+- De gagner du temps (beaucoup de temps… )
 
 Malheureusement, la prise-en-main du boilerplate peut sembler complexe aux non-initiés et encore plus aux non-anglophones. 
 
@@ -73,7 +73,7 @@ L'objectif de ce document sera donc principalement de proposer une traduction in
 
     ... et utilisez les générateurs intégrés pour débuter votre première fonctionnalité.
 
-### Development
+### Développement
 
 Exécutez `npm start` pour voir votre application fonctionner sur `localhost:3000`
 
@@ -86,16 +86,15 @@ Exécutez `npm start` pour voir votre application fonctionner sur `localhost:300
 
 ### Structure
 
-Le dossier [`app/`](../../../tree/master/app) contient l'intégralité de votre code d'application, y compris CSS, JavaScript, HTML et tests. 
+Le dossier [`app/`](https://github.com/react-boilerplate/react-boilerplate/tree/master/app) contient l'intégralité de votre code d'application, y compris CSS, JavaScript, HTML et les tests. 
 
-Les autres dossiers et fichiers n'existent que pour vous faciliter la vie et ne doivent pas être touchés.
+Les autres dossiers et fichiers n'existent que pour vous faciliter la vie et ne doivent pas être modifiés ou supprimés.
 
 _(S'ils doivent être modifiés, veuillez [soumettre le problème](https://github.com/react-boilerplate/react-boilerplate/issues)!)_
 
 ### CSS
 En utilisant des [littéraux de modèle balisés](https://www.styled-components.com/docs/advanced#tagged-template-literals) (un ajout récent à JavaScript) et la [puissance de CSS](https://github.com/styled-components/styled-components/blob/master/docs/css-we-support.md), les `styled-components` vous permettent d'écrire du code CSS réel pour styliser vos composants. 
-Il supprime également le mappage entre les composants et les styles - l'utilisation de composants comme construction de style 
-de bas niveau ne pourrait pas être plus facile ! 
+Ils suppriment également le mappage entre les composants et les styles - ce qui rend plus facile l'utilisation de composants comme construction de style de bas niveau ! 
 
 Voir la [documentation CSS](./css/README.md) pour plus d'informations. 
 
