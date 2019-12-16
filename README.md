@@ -49,7 +49,7 @@ L'objectif de ce document sera donc principalement de proposer une traduction in
   - [5.1. Mettre à jour les Dépendances](maintenance/dependency.md)
 - [6. Forks](forks)
 
-## Overview
+## Vue d'ensemble
 
 ### Démarrage rapide
 
